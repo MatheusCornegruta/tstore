@@ -1,10 +1,8 @@
-# TStore 🛍️
-Projeto autoral fictício para estudo de UI/UX e front-end com React + Tailwind.
+# True Company
+Landing page fictícia para estudo de UI/UX e front-end.
 
 ## Tecnologias
-- React 18
-- Vite 5
-- TypeScript
+- React 18, TypeScript, Vite
 - TailwindCSS
 - Lucide Icons
 
